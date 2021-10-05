@@ -24,5 +24,5 @@ export default class CalButton extends React.Component{
 
 const styles=StyleSheet.create({
     container: {alignItems:"center",justifyContent:"center",width: 75,height: 75, borderRadius: 40,margin:7},
-    text: {fontSize: 30},
+    text: {fontSize: 30}, 
 });
